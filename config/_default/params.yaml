@@ -96,4 +96,3 @@ features:
 
 theme:
   color: default
-  custom_css: ["wideformat.css"]
