@@ -17,6 +17,7 @@ cta:
 cta_alt:
   url: tutorial/
   label: Real Project Application Example
+  icon_pack: fas
   icon: book
 cta_alt:
   url: tutorial/
