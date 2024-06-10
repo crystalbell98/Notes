@@ -8,10 +8,10 @@ pager: false
 
 ## SEM
 
-[SEM R](content/tutorial/SEM_R.nb.html)
-[SEM R2](content/tutorial/SEM_analysis.nb.html)
+[SEM R](https://crystalbell98.github.io/Notes/tutorial/SEM_R.nb.html)
+[SEM R2](https://crystalbell98.github.io/Notes/tutorial/SEM_analysis.nb.html)
 
 
 ## Eigenvalues
 
-[Eigenvalues](content/tutorial/Eigenvalues and Eigenvectors Lecture.html)
+[Eigenvalues](https://crystalbell98.github.io/Notes/tutorial/Eigenvalues and Eigenvectors Lecture.html)
