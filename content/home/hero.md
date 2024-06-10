@@ -2,26 +2,29 @@
 widget: hero
 headless: true
 weight: 10
-title: Project Docs 
+title: Welcome to Docks 
 hero_media: book.svg
 design:
   background:
-    gradient_start: '#4bb4e3'
-    gradient_end: '#2b94c3'
+    gradient_start: '#1c1c1e'
+    gradient_end: '#1c1c1e'
     text_color_light: true
 cta:
   url: docs/
-  label: Get Started
+  label: Biostatistical Methods
   icon_pack: fas
-  icon: download
+  icon: book
 cta_alt:
-  url: docs/
-  label: View Documentation
+  url: tutorial/
+  label: Real Project Application Example
+  icon: book
+cta_alt:
+  url: tutorial/
+  label: Real Project Application Example
+  icon: book
 cta_note:
   label: >-
     <span class="js-github-release" data-repo="wowchemy/wowchemy-hugo-themes">
-      Project version will appear here<!-- Automatically filled based on data-repo value -->
+      Project version will appear here
     </span>
 ---
-
-Analyses for Particulate Matter 2.5 Pollution and Cognition in World Trade Center Responder Cohort.
