@@ -14,4 +14,4 @@ pager: false
 
 ## Eigenvalues
 
-[Eigenvalues](https://crystalbell98.github.io/Notes/tutorial/Eigenvalues and Eigenvectors Lecture.html)
+[Eigenvalues](https://crystalbell98.github.io/Notes/tutorial/Eigenvalues.html)
