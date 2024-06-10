@@ -1,8 +1,8 @@
 ---
 title: "Code and Results Tutorial"
-date: 2024-06-09
-description: "Displaying all HTML files within the same folder."
-draft: false
+linktitle: Tutorial
+type: book
+date: '2024-06-09'
 ---
 
 ## HTML Example 1
