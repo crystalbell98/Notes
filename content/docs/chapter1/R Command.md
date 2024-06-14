@@ -1,3 +1,13 @@
+---
+title: R Command
+linktitle: R_Command
+type: book
+date: '2019-05-05T00:00:00+01:00'
+# Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
+weight: 2
+tags: ["R"]
+---
+
 进行一个研究分析的步骤通常包括以下几个阶段：
 
 1.  明确研究目标：确定研究的目的和主要问题。这将有助于为分析和研究设计提供明确的方向。
